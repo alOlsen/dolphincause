@@ -1,6 +1,6 @@
 $(document).ready( function(){
-	
-	lert("Hello! I am an alert box!!");
+
+	console.log("It begans");
 
 
 });
